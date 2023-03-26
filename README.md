@@ -36,3 +36,7 @@ To count objects, run the file objdet.py and start the conveyer belt. The catego
 
 
 
+https://user-images.githubusercontent.com/25746677/227775801-e7a99bc3-509b-4d37-895f-bbf516abf8f4.mp4
+
+
+
