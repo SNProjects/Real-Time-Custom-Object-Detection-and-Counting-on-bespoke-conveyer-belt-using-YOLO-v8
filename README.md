@@ -2,7 +2,7 @@
 
 <div align= "center"> <h4>Training a Deep Learning neural network to detect and count custom objects on a bespoke conveyer belt using YOLO-V8.</h4>
 
-  <img src="https://github.com/stuti2403/Training-Self-Driving-Car-Simulator/blob/main/image.jpeg"/>
+ 
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
