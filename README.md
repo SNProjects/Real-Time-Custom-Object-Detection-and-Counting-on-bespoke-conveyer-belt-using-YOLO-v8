@@ -1,7 +1,7 @@
 <h1 align="center">Custom Object detection and counting on a conveyer belt</h1>
 
 <div align= "center"> <h4>Training a Deep Learning neural network to detect and count custom objects on a bespoke conveyer belt using YOLO-V8.</h4>
-
+  <img src="https://github.com/Navtegh/Real-Time-Custom-Object-Detection-and-Counting-on-bespoke-conveyer-belt/blob/main/IMG_1.jpg"/>
  
 </div>
 
