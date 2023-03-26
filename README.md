@@ -8,14 +8,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## :innocent: About the Project
-Training a deep neural network using the latest version of YOLO, i.e., YOLO-V8 to detect custom objects on a conveyer belt. The model also counts objects of each category as they pass on along the conveyer belt. 
+Training a deep neural network using the latest version of YOLO (You Only Look Once), i.e., YOLO-V8 to detect custom objects on a conveyer belt. The model also counts objects of each category as they pass on along the conveyer belt. 
 
 ## :warning: TechStack/framework used
 
 - [OpenCV](https://opencv.org/)
 - [YOLO](https://github.com/ultralytics/ultralytics)
 - [Python](https://www.python.org/)
-- <!-- - [MobileNetV2](https://arxiv.org/abs/1801.04381) -->
 
 
 ## Use cases of the project
@@ -26,7 +25,12 @@ This project can be used for custom object detection and counting in any manufac
 The conveyer belt used in this project is made at home using spare parts like an old spare motor, a broken headphone's headband, a bed table and some empty medicine bottles for the wheels of the conveyer belt.
 
 ## Training the model on custom dataset:
-To train the model, run the file train_yolo_model.ipynb,
+To train the model, run the file train_yolo_model.ipynb, and download the trained model.
+
+## testing and counting objects on the conveyer belt:
+To count objects, run the file objdet.py and start the conveyer belt. The category of object and its count starts appearing on screen as the object moves on the conveyer belt.
+
+
 
 
 
