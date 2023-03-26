@@ -27,7 +27,7 @@ The conveyer belt used in this project is made at home using spare parts like an
 ## Training the model on custom dataset:
 To train the model, run the file train_yolov8_model_on_custom_data.ipynb, and download the trained model.
 
-## testing and counting objects on the conveyer belt:
+## Testing and counting objects on the conveyer belt:
 To count objects, run the file objdet.py and start the conveyer belt. The category of object and its count starts appearing on screen as the object moves on the conveyer belt.
 
 
